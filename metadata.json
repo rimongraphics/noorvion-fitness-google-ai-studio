@@ -1,0 +1,5 @@
+{
+  "name": "Noorvion Fitness: AI Food Scanner",
+  "description": "An AI-powered application that allows users to scan food items using their camera to instantly receive nutritional information, health benefits, and personalized dietary recommendations.",
+  "requestFramePermissions": []
+}
